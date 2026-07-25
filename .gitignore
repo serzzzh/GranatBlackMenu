@@ -20,5 +20,6 @@ captures/
 output.json
 *.hprof
 keys/
+release.keystore
 /parse_menu.py
 /menu_data.json

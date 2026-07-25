@@ -24,11 +24,27 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
 
-      - name: Build Release APK
+      - name: Create signing keystore
+        run: |
+          keytool -genkeypair -v \
+            -keystore release.keystore \
+            -storepass android \
+            -alias granat \
+            -keypass android \
+            -keyalg RSA \
+            -keysize 2048 \
+            -validity 10000 \
+            -dname "CN=Granat Black, OU=Mobile, O=Granat Black, L=Moscow, C=RU"
+
+      - name: Build signed Release APK
         run: ./gradlew assembleRelease
+        env:
+          KEYSTORE_PASSWORD: android
+          KEY_ALIAS: granat
+          KEY_PASSWORD: android
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: granatblack-menu-apk
-          path: app/build/outputs/apk/release/*.apk
+          path: app/build/outputs/apk/release/app-release.apk
