@@ -54,6 +54,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.foundation.layout.fillMaxHeight
+import androidx.compose.material.icons.filled.Restaurant
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.res.painterResource
+import coil.compose.AsyncImage
 
 private val Background = Color(0xFF121212)
 private val Surface = Color(0xFF1E1E1E)
@@ -199,46 +204,95 @@ private fun MenuItemCard(
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(16.dp),
-            verticalAlignment = Alignment.CenterVertically
+                .height(112.dp)
         ) {
-            Column(modifier = Modifier.weight(1f)) {
-                Text(
-                    text = item.name,
-                    color = TextPrimary,
-                    fontWeight = FontWeight.Medium,
-                    fontSize = 16.sp
-                )
-                if (!item.weight.isNullOrBlank()) {
-                    Spacer(modifier = Modifier.height(4.dp))
+            DishImage(
+                imageUrl = item.image,
+                contentDescription = item.name,
+                modifier = Modifier
+                    .width(112.dp)
+                    .fillMaxHeight()
+            )
+
+            Row(
+                modifier = Modifier
+                    .weight(1f)
+                    .fillMaxHeight()
+                    .padding(12.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Column(modifier = Modifier.weight(1f)) {
                     Text(
-                        text = item.weight,
-                        color = TextSecondary,
-                        fontSize = 13.sp
+                        text = item.name,
+                        color = TextPrimary,
+                        fontWeight = FontWeight.Medium,
+                        fontSize = 15.sp,
+                        maxLines = 2,
+                        overflow = TextOverflow.Ellipsis
+                    )
+                    if (!item.weight.isNullOrBlank()) {
+                        Spacer(modifier = Modifier.height(4.dp))
+                        Text(
+                            text = item.weight,
+                            color = TextSecondary,
+                            fontSize = 12.sp
+                        )
+                    }
+                    Spacer(modifier = Modifier.height(6.dp))
+                    Text(
+                        text = "${item.price} ₽",
+                        color = AccentLight,
+                        fontWeight = FontWeight.Bold,
+                        fontSize = 17.sp
                     )
                 }
-                Spacer(modifier = Modifier.height(8.dp))
-                Text(
-                    text = "${item.price} ₽",
-                    color = AccentLight,
-                    fontWeight = FontWeight.Bold,
-                    fontSize = 18.sp
-                )
-            }
 
-            if (quantity > 0) {
-                QuantityControl(quantity, onRemove, onAdd)
-            } else {
-                IconButton(
-                    onClick = onAdd,
-                    modifier = Modifier
-                        .size(40.dp)
-                        .clip(CircleShape)
-                        .background(Accent)
-                ) {
-                    Icon(Icons.Default.Add, contentDescription = "Добавить", tint = Color.White)
+                if (quantity > 0) {
+                    QuantityControl(quantity, onRemove, onAdd)
+                } else {
+                    IconButton(
+                        onClick = onAdd,
+                        modifier = Modifier
+                            .size(40.dp)
+                            .clip(CircleShape)
+                            .background(Accent)
+                    ) {
+                        Icon(Icons.Default.Add, contentDescription = "Добавить", tint = Color.White)
+                    }
                 }
             }
+        }
+    }
+}
+
+@Composable
+private fun DishImage(
+    imageUrl: String?,
+    contentDescription: String,
+    modifier: Modifier = Modifier
+) {
+    if (!imageUrl.isNullOrBlank()) {
+        AsyncImage(
+            model = imageUrl,
+            contentDescription = contentDescription,
+            modifier = modifier.clip(RoundedCornerShape(topStart = 16.dp, bottomStart = 16.dp)),
+            contentScale = ContentScale.Crop,
+            placeholder = painterResource(R.drawable.ic_dish_placeholder),
+            error = painterResource(R.drawable.ic_dish_placeholder)
+        )
+    } else {
+        Box(
+            modifier = modifier
+                .clip(RoundedCornerShape(topStart = 16.dp, bottomStart = 16.dp))
+                .background(Color(0xFF2A2A2A)),
+            contentAlignment = Alignment.Center
+        ) {
+            Icon(
+                imageVector = Icons.Default.Restaurant,
+                contentDescription = contentDescription,
+                tint = Accent,
+                modifier = Modifier.size(36.dp)
+            )
         }
     }
 }

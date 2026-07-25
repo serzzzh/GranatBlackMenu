@@ -23,3 +23,17 @@ keys/
 release.keystore
 /parse_menu.py
 /menu_data.json
+menyu.html
+product.html
+api_*.json
+wp_*.json
+media*.json
+logs/
+logs.zip
+apk.zip
+apk_out/
+extract_images.py
+match_images.py
+probe_api.py
+check_product.py
+fetch_images.py

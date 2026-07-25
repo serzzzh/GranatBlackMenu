@@ -43,7 +43,8 @@
         {
           "name": "Картофель жареный с грибами",
           "price": 640,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kartofel-zharenyj-s-gribami-szhatoe-foto-1.png"
         },
         {
           "name": "Котлеты картофельные с грибами",
@@ -63,7 +64,8 @@
         {
           "name": "Лобио по-грузински",
           "price": 510,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Lobio-3-scaled.jpg"
         },
         {
           "name": "Оливье постное",
@@ -73,7 +75,8 @@
         {
           "name": "Рагу овощной",
           "price": 590,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/elementor/thumbs/Ovoshhnoj-scaled-qn4nm1ra715yhjpl3k2hulqur5t57rtmjmom5g0zh0.jpg"
         },
         {
           "name": "Рис с овощами",
@@ -83,7 +86,8 @@
         {
           "name": "Салат овощной",
           "price": 660,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/elementor/thumbs/Ovoshhnoj-scaled-qn4nm1ra715yhjpl3k2hulqur5t57rtmjmom5g0zh0.jpg"
         },
         {
           "name": "Салат с тофу",
@@ -103,7 +107,8 @@
         {
           "name": "Суп из тыквы",
           "price": 450,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/krem-sup-iz-tykvy-2-scaled.jpg"
         },
         {
           "name": "Суп чечевичный",
@@ -127,7 +132,8 @@
         },
         {
           "name": "Долма овощная по-азербайджански",
-          "price": 980
+          "price": 980,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Dolma-ovoshhnaya-po-azerbajdzhanski.jpg"
         },
         {
           "name": "Дыня (нарезка)",
@@ -136,43 +142,53 @@
         },
         {
           "name": "Кутаб на мангале",
-          "price": 580
+          "price": 580,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kutab-s-zelenyu-2-scaled.jpg"
         },
         {
           "name": "Лосось на гриле в сливочном соусе с булгуром",
-          "price": 2300
+          "price": 2300,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Losos-na-grile-v-slivochnom-souse.jpg"
         },
         {
           "name": "Окрошка на квасе с ветчиной из индейки",
-          "price": 350
+          "price": 350,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Okroshka-na-kvase-s-vetchinoj-iz-indejki.jpg"
         },
         {
           "name": "Окрошка на кефире с ветчиной из индейки",
-          "price": 370
+          "price": 370,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Okroshka-na-kefire-s-vetchinoj-iz-indejki.jpg"
         },
         {
           "name": "Паста с креветками и соусом песто",
-          "price": 1050
+          "price": 1050,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Pasta-s-krevetkami-pesto.jpg"
         },
         {
           "name": "Пхали со шпинатом",
-          "price": 810
+          "price": 810,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Phali-so-shpinatom.jpg"
         },
         {
           "name": "Салат Бакинский",
-          "price": 700
+          "price": 700,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Salat-Bakinskij.jpg"
         },
         {
           "name": "Салат буррата",
-          "price": 970
+          "price": 970,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Salat-Burrata.jpg"
         },
         {
           "name": "Салат Летний",
-          "price": 570
+          "price": 570,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Salat-Letnij-s-arbuzom-i-syrom.jpg"
         },
         {
           "name": "Салат свекольный с козьим сыром",
-          "price": 610
+          "price": 610,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/Salat-svekolnyj-s-syrom.jpg"
         },
         {
           "name": "Телятина на гриле в сливочном соусе с булгуром",
@@ -180,15 +196,18 @@
         },
         {
           "name": "Фасоль зеленая стручковая",
-          "price": 690
+          "price": 690,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/CHyhyrtma-iz-struchkovoj-fasoli.jpg"
         },
         {
           "name": "Хачапури со шпинатом",
-          "price": 810
+          "price": 810,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hachapuri-po-megrelski-3-scaled.jpg"
         },
         {
           "name": "Чигиртма из стручковой фасоли с цыпленком",
-          "price": 810
+          "price": 810,
+          "image": "https://granatblack.ru/wp-content/uploads/2025/05/CHyhyrtma-iz-struchkovoj-fasoli.jpg"
         }
       ]
     },
@@ -198,135 +217,162 @@
         {
           "name": "Рулетики из баклажан с орех.начинкой",
           "price": 810,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/ruletiki-iz-baklazhan-3-scaled.jpg"
         },
         {
           "name": "Молодой картофель на углях",
           "price": 410,
-          "weight": "175 г."
+          "weight": "175 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/molodoj-kartofel-3-scaled.jpg"
         },
         {
           "name": "Шампиньоны на мангале",
           "price": 460,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shampinony-2-scaled.jpg"
         },
         {
           "name": "Картофель фри",
           "price": 390,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kartofel-fri-szhatoe-foto-1.png"
         },
         {
           "name": "Картофель жареный с грибами и луком",
           "price": 590,
-          "weight": "170 г."
+          "weight": "170 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kartofel-zharenyj-s-gribami-szhatoe-foto-1.png"
         },
         {
           "name": "Салат из печен. овощей на мангале",
           "price": 850,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Salat-zapechyonnye-ovoshhi-na-grile-1-scaled.jpg"
         },
         {
           "name": "Салат Бычье сердце",
           "price": 980,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Byche-serdtse-1-scaled.jpg"
         },
         {
           "name": "Салат из жареного сулугуни",
           "price": 960,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Salat-iz-zharenogo-suluguni-1-scaled.jpg"
         },
         {
           "name": "Цезарь с курицей",
           "price": 890,
-          "weight": "230 г."
+          "weight": "230 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/TSezar-s-kuritsej-1-scaled.jpg"
         },
         {
           "name": "Кутаб с зеленью/тыквой",
           "price": 410,
-          "weight": "80 г."
+          "weight": "80 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kutab-s-zelenyu-2-scaled.jpg"
         },
         {
           "name": "Кутаб с сыром",
           "price": 390,
-          "weight": "80 г."
+          "weight": "80 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kutab-s-syrom-2-scaled.jpg"
         },
         {
           "name": "Кутаб с мясом",
           "price": 420,
-          "weight": "70 г."
+          "weight": "70 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kutab-s-myasom-3-scaled.jpg"
         },
         {
           "name": "Хачапури по-мегрельски",
           "price": 930,
-          "weight": "500 г."
+          "weight": "500 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hachapuri-po-megrelski-3-scaled.jpg"
         },
         {
           "name": "Хачапури по-имеретински",
           "price": 850,
-          "weight": "450 г."
+          "weight": "450 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hachapuri-po-imeretinski-1-scaled.jpg"
         },
         {
           "name": "Люля-кебаб из курицы",
           "price": 910,
-          "weight": "310 г."
+          "weight": "310 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lyulya-kuritsa-4-scaled.jpg"
         },
         {
           "name": "Люля-кебаб из баранины",
           "price": 980,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lyulya-iz-baraniny-1-scaled.jpg"
         },
         {
           "name": "Корейка из молод. ягненка",
           "price": 1260,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/korejka-iz-molodogo-yagnenka-1-scaled.jpg"
         },
         {
           "name": "Телятина \"Бастурма\"",
           "price": 1400,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/telyachya-basturma-3-scaled.jpg"
         },
         {
           "name": "Шашлык по-турецки куриный",
           "price": 890,
-          "weight": "270 г."
+          "weight": "270 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/po-turetski-1-scaled.jpg"
         },
         {
           "name": "Шашлык из баран. мякоти",
           "price": 1250,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/baranya-myakot-3-scaled.jpg"
         },
         {
           "name": "Шашлык из свиной шейки",
           "price": 930,
-          "weight": "265 г."
+          "weight": "265 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shejka-scaled.jpg"
         },
         {
           "name": "Шашлык из семги",
           "price": 2450,
-          "weight": "220 г."
+          "weight": "220 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/semga-2-scaled.jpg"
         },
         {
           "name": "Дойма из баранины, рубленная вручную",
           "price": 1150,
-          "weight": "310 г."
+          "weight": "310 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/dojma-rublennaya-vruchnuyu-3-scaled.jpg"
         },
         {
           "name": "Ландет из говяжьей вырезки",
           "price": 1410,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Landet-iz-govyazh.vyrezki-szhatoe-foto-1-scaled.jpg"
         },
         {
           "name": "Соус Наршараб домашний 50 гр",
-          "price": 340
+          "price": 340,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Narsharab-scaled.jpg"
         },
         {
           "name": "Мацони с чесноком 50 мл",
-          "price": 210
+          "price": 210,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Matsoni-s-chesnokom-scaled.jpg"
         },
         {
           "name": "Лепешка Шоти",
           "price": 130,
-          "weight": "120 г."
+          "weight": "120 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shoti-2-scaled.jpg"
         }
       ]
     },
@@ -336,25 +382,30 @@
         {
           "name": "Голубцы из индейки",
           "price": 690,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/golubtsy-iz-indejki.webp"
         },
         {
           "name": "Гусь запеченный 1 кг",
-          "price": 2300
+          "price": 2300,
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Gus-zapechennyj-1.webp"
         },
         {
           "name": "Долма в виноградном листе с индейкой",
           "price": 790,
-          "weight": "280 г."
+          "weight": "280 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Dolma-v-vinogradnom-liste-1.webp"
         },
         {
           "name": "Курица «Лявянги» 1,2 кг",
-          "price": 2200
+          "price": 2200,
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kuritsa-Lyavyangi-1.webp"
         },
         {
           "name": "Молодой ягненок запеченный",
           "price": 17500,
-          "weight": "1 г."
+          "weight": "1 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/yagnenok-1.webp"
         },
         {
           "name": "Осетрина целая 1 кг",
@@ -362,15 +413,18 @@
         },
         {
           "name": "Стерлядь 1 кг",
-          "price": 5200
+          "price": 5200,
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Sterlyad-1.webp"
         },
         {
           "name": "Утка запеченная 1 кг",
-          "price": 2150
+          "price": 2150,
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Utka-zapechennaya-szhatoe-foto-1.png"
         },
         {
           "name": "Шах плов 1 кг",
-          "price": 2300
+          "price": 2300,
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/SHah-plov-s-baran-1-kg-1.webp"
         }
       ]
     },
@@ -380,42 +434,50 @@
         {
           "name": "Блинчики с медом",
           "price": 390,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/blinchiki-s-medom-1-scaled.jpg"
         },
         {
           "name": "Блинчики с творогом",
           "price": 490,
-          "weight": "180 г."
+          "weight": "180 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/blinchiki-s-tvorogom-2-scaled.jpg"
         },
         {
           "name": "Блинчики с мясом и сметаной",
           "price": 550,
-          "weight": "180 г."
+          "weight": "180 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/blinchiki-s-myasom-i-smetanoj-1-scaled.jpg"
         },
         {
           "name": "Блинчики с красной икрой",
           "price": 890,
-          "weight": "130 г."
+          "weight": "130 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/blinchiki-s-krasnoj-ikroj-3-scaled.jpg"
         },
         {
           "name": "Омлет с ветчиной и сыром",
           "price": 690,
-          "weight": "260 г."
+          "weight": "260 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/omlet-s-vetchinoj-i-syrom-1-scaled.jpg"
         },
         {
           "name": "Яичница с помидорами",
           "price": 790,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/YAichnitsa-s-pomidorami-3-scaled.jpg"
         },
         {
           "name": "Английский завтрак",
           "price": 850,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Anglijskij-zavtrak-3-scaled.jpg"
         },
         {
           "name": "Кюкю из зелени",
           "price": 810,
-          "weight": "250 г."
+          "weight": "250 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Kyukyu-iz-zeleni-1-scaled.jpg"
         }
       ]
     },
@@ -429,92 +491,110 @@
         {
           "name": "Свежая зелень",
           "price": 810,
-          "weight": "140 г."
+          "weight": "140 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/svezhaya-zelen-1-scaled.jpg"
         },
         {
           "name": "Букет овощной",
           "price": 1420,
-          "weight": "450 г."
+          "weight": "450 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/buket-ovoshhnoj-1-scaled.jpg"
         },
         {
           "name": "Помидоры Бычье сердце с очищенными огурцами",
           "price": 1150,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/pomidory-s-ogurtsami-1-scaled.jpg"
         },
         {
           "name": "Аджапсандали (грузинское блюдо)",
           "price": 790,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/adzhabsandali-1-scaled.jpg"
         },
         {
           "name": "Рулетики из баклажан с орех.начинкой",
           "price": 810,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/ruletiki-iz-baklazhan-3-scaled.jpg"
         },
         {
           "name": "Баклажаны пикантные (грузинская кухня)",
           "price": 780,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Baklazhany-pikantnye-1-scaled.jpg"
         },
         {
           "name": "Лобио по-грузински",
           "price": 690,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Lobio-3-scaled.jpg"
         },
         {
           "name": "Грибы маринованные",
           "price": 550,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/griby-marinovannye-1-scaled.jpg"
         },
         {
           "name": "Русский разносол",
           "price": 820,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/russkij-raznosol-1-scaled.jpg"
         },
         {
           "name": "Соленья бакинские",
           "price": 1350,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/solenya-bakinskie-2-scaled.jpg"
         },
         {
           "name": "Соленья бакинские: Огурцы белые",
           "price": 400,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Solenya-bakinskie-Ogurtsy-belye-scaled.jpg"
         },
         {
           "name": "Соленья бакинские: Баклажаны",
           "price": 400,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Solenya-bakinskie-baklazhany-scaled.jpg"
         },
         {
           "name": "Соленья бакинские: Алыча",
           "price": 400,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Solenya-bakinskie-alycha-scaled.jpg"
         },
         {
           "name": "Соленья бакинские: Райское яблоко",
           "price": 400,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Solenya-bakinskie-Rajskoe-yabloko-scaled.jpg"
         },
         {
           "name": "Соленья бакинские: Кизил",
           "price": 400,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Solenya-bakinskie-Kizil-scaled.jpg"
         },
         {
           "name": "Соленья бакинские: Терн",
           "price": 400,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/solenya-bakinskie-2-scaled.jpg"
         },
         {
           "name": "Оливки, маслины",
           "price": 580,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Izobrazhenie-WhatsApp-2023-11-02-v-13.47.02_61d67da4.jpg"
         },
         {
           "name": "Оливки, маслины ГИГАНТ",
           "price": 770,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Izobrazhenie-WhatsApp-2023-11-02-v-13.47.02_97141c4b.jpg"
         }
       ]
     },
@@ -524,32 +604,38 @@
         {
           "name": "Куриный рулет",
           "price": 680,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kurinyj-rulet-1-scaled.jpg"
         },
         {
           "name": "Язык говяж. с хреном",
           "price": 820,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/yazyk-govyazhij-1-scaled.jpg"
         },
         {
           "name": "Сациви с курицей",
           "price": 810,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/satsivi-2-scaled.jpg"
         },
         {
           "name": "Ростбиф",
           "price": 970,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/rostbif-1-scaled.jpg"
         },
         {
           "name": "Карпаччо из говядины",
           "price": 1350,
-          "weight": "220 г."
+          "weight": "220 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/karpachcho-iz-govyadiny-4-scaled.jpg"
         },
         {
           "name": "Мясное ассорти",
           "price": 2050,
-          "weight": "360 г."
+          "weight": "360 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/myasnoe-assorti-1-scaled.jpg"
         }
       ]
     },
@@ -559,22 +645,26 @@
         {
           "name": "Сельдь с отвар.картошкой",
           "price": 890,
-          "weight": "240 г."
+          "weight": "240 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/seld-s-kartofelem-2-scaled.jpg"
         },
         {
           "name": "Семга слабосоленая",
           "price": 1550,
-          "weight": "130 г."
+          "weight": "130 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/semga-slabosolennaya-2-scaled.jpg"
         },
         {
           "name": "Карпаччо из семги",
           "price": 1550,
-          "weight": "220 г."
+          "weight": "220 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/karpachcho-iz-semgi-1-scaled.jpg"
         },
         {
           "name": "Ассорти рыбное",
           "price": 4700,
-          "weight": "360 г."
+          "weight": "360 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/assorti-rybnoe-2-scaled.jpg"
         }
       ]
     },
@@ -584,32 +674,38 @@
         {
           "name": "Сыр сулугуни",
           "price": 610,
-          "weight": "120 г."
+          "weight": "120 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Suluguni-1-scaled.jpg"
         },
         {
           "name": "Сыр Брынза Губа",
           "price": 750,
-          "weight": "145 г."
+          "weight": "145 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Guba-2-scaled.jpg"
         },
         {
           "name": "Сыр овечий Шор",
           "price": 650,
-          "weight": "145 г."
+          "weight": "145 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shor-1-scaled.jpg"
         },
         {
           "name": "Сыр овечий Мотал",
           "price": 800,
-          "weight": "145 г."
+          "weight": "145 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Motal-1-scaled.jpg"
         },
         {
           "name": "Сырное ассорти по-Бакински",
           "price": 1450,
-          "weight": "280 г."
+          "weight": "280 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Syrnoe-assorti-po-bakinski-1-scaled.jpg"
         },
         {
           "name": "Сырное ассорти ЕВРОПА",
           "price": 2350,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Syrnoe-assorti-Evropa-3-scaled.jpg"
         }
       ]
     },
@@ -619,57 +715,68 @@
         {
           "name": "Жульен грибной",
           "price": 490,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/ZHulen-gribnoj-ili-kurinyj-1-scaled.jpg"
         },
         {
           "name": "Жульен куриный",
           "price": 490,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/ZHulen-gribnoj-ili-kurinyj-1-scaled.jpg"
         },
         {
           "name": "Шампиньоны запеченные с мясом и сыром",
           "price": 770,
-          "weight": "190 г."
+          "weight": "190 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/SHampinony-s-myasom-i-syrom-1-scaled.jpg"
         },
         {
           "name": "Аджабсандал овощной",
           "price": 850,
-          "weight": "250 г."
+          "weight": "250 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Adzhabsandal-ovoshhnoj-szhatoe-foto-1-2-scaled.jpg"
         },
         {
           "name": "Лобио в горшочке",
           "price": 830,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lobio-v-gorshochke-1-scaled.jpg"
         },
         {
           "name": "Сулугуни жар. в сухарях",
           "price": 850,
-          "weight": "230 г."
+          "weight": "230 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Suluguni-zharenyj-v-suharyah-2-scaled.jpg"
         },
         {
           "name": "Сулугуни запеченый с помидором и зеленью",
           "price": 950,
-          "weight": "230 г."
+          "weight": "230 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Suluguni-zapechennyj-s-pomidorom-i-zelenyu-2-scaled.jpg"
         },
         {
           "name": "Кальмар жареный в сухарях с сырным соусом",
           "price": 890,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Kalmar-v-suharyah-2-scaled.jpg"
         },
         {
           "name": "Мидии со шпинатом",
           "price": 1650,
-          "weight": "280 г."
+          "weight": "280 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Midii-so-shpinatom-3-scaled.jpg"
         },
         {
           "name": "Креветки с соусом Блю Чиз",
           "price": 1600,
-          "weight": "180 г."
+          "weight": "180 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Krevetki-v-klyare-s-sousom-Blyu-CHiz-szhatoe-foto-1-1-scaled.jpg"
         },
         {
           "name": "Морской гребешок под сливочным соусом",
           "price": 2350,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Morskoj-grebeshok-pod-slivochnyj-sousom-1-scaled.jpg"
         }
       ]
     },
@@ -679,32 +786,38 @@
         {
           "name": "Гренки с чесноком и пармезаном",
           "price": 450,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Grenki-s-chesnokom-i-parmezanom-3-scaled.jpg"
         },
         {
           "name": "Фисташки",
           "price": 520,
-          "weight": "40 г."
+          "weight": "40 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Fistashki-1.jpg"
         },
         {
           "name": "Дюшбара жареная",
           "price": 650,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Dyushbara-zharenaya-2-scaled.jpg"
         },
         {
           "name": "Колбаски охотничьи",
           "price": 590,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Kolbaski-ohotnichbi-2-scaled.jpg"
         },
         {
           "name": "Гюрза жареная",
           "price": 750,
-          "weight": "210 г."
+          "weight": "210 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Gyurza-zharenaya1-scaled.jpg"
         },
         {
           "name": "Креветки отварные",
           "price": 1150,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Krevetki-otvarnye-2-scaled.jpg"
         }
       ]
     },
@@ -714,77 +827,92 @@
         {
           "name": "Салат из печен. овощей на мангале",
           "price": 850,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Salat-zapechyonnye-ovoshhi-na-grile-1-scaled.jpg"
         },
         {
           "name": "Салат Бычье сердце",
           "price": 980,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Byche-serdtse-1-scaled.jpg"
         },
         {
           "name": "Салат Батуми",
           "price": 1050,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Batumi-1-scaled.jpg"
         },
         {
           "name": "Салат из жареного сулугуни",
           "price": 960,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Salat-iz-zharenogo-suluguni-1-scaled.jpg"
         },
         {
           "name": "Салат Капрезе",
           "price": 1100,
-          "weight": "250 г."
+          "weight": "250 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Kapreze-1-scaled.jpg"
         },
         {
           "name": "Салат Греческий",
           "price": 950,
-          "weight": "250 г."
+          "weight": "250 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Grecheskij-1-scaled.jpg"
         },
         {
           "name": "Салат оливье",
           "price": 690,
-          "weight": "215 г."
+          "weight": "215 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Olive-1-scaled.jpg"
         },
         {
           "name": "Цезарь с курицей",
           "price": 890,
-          "weight": "230 г."
+          "weight": "230 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/TSezar-s-kuritsej-1-scaled.jpg"
         },
         {
           "name": "Цезарь с семгой",
           "price": 1050,
-          "weight": "230 г."
+          "weight": "230 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/TSezar-s-semgoj-2-scaled.jpg"
         },
         {
           "name": "Цезарь с креветками",
           "price": 1050,
-          "weight": "230 г."
+          "weight": "230 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/TSezar-s-krevetkami-2-scaled.jpg"
         },
         {
           "name": "Салат теплый \"Куриный\"",
           "price": 940,
-          "weight": "220 г."
+          "weight": "220 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Kurinyj-raj-1-scaled.jpg"
         },
         {
           "name": "Салат теплый с говяжьей вырезкой",
           "price": 1510,
-          "weight": "240 г."
+          "weight": "240 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Salat-teplyj-s-govyazhej-vyrezkoj-2-scaled.jpg"
         },
         {
           "name": "Салат Гранат Black",
           "price": 1550,
-          "weight": "240 г."
+          "weight": "240 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/granat-blek.png"
         },
         {
           "name": "Салат теплый с куриной печенью",
           "price": 910,
-          "weight": "240 г."
+          "weight": "240 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Salat-s-kurinoj-pechenyu-1-scaled.jpg"
         },
         {
           "name": "Салат теплый с тунцом",
           "price": 1450,
-          "weight": "220 г."
+          "weight": "220 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Salat-teplyj-s-tuntsom-3-scaled.jpg"
         }
       ]
     },
@@ -794,62 +922,74 @@
         {
           "name": "Суп из цыпленка с лапшой",
           "price": 650,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/sup-s-tsyplenkom-i-lapshoj-1-scaled.jpg"
         },
         {
           "name": "Суп из цыпленка с рисом",
           "price": 650,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/sup-s-tsyplenkom-i-risom-2-scaled.jpg"
         },
         {
           "name": "Борщ московский с мясом",
           "price": 650,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/borshh-2-scaled.jpg"
         },
         {
           "name": "Солянка сборная мясная",
           "price": 790,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/solyanka-1-scaled.jpg"
         },
         {
           "name": "Харчо по-грузински",
           "price": 820,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/harcho-2-scaled.jpg"
         },
         {
           "name": "Крем-суп из чечевицы",
           "price": 650,
-          "weight": "370 г."
+          "weight": "370 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/krem-sup-iz-chechevitsy-1-scaled.jpg"
         },
         {
           "name": "Крем-суп из тыквы",
           "price": 670,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/krem-sup-iz-tykvy-2-scaled.jpg"
         },
         {
           "name": "Суп Дюшбара",
           "price": 750,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/dyushbara-scaled.jpg"
         },
         {
           "name": "Суп Гюрза с бараниной",
           "price": 820,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/gyurza-1-scaled.jpg"
         },
         {
           "name": "Кюфта-бозбаш",
           "price": 960,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kyufta-bozbash-2-scaled.jpg"
         },
         {
           "name": "Суп Пити",
           "price": 1070,
-          "weight": "450 г."
+          "weight": "450 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/sup-piti-3-scaled.jpg"
         },
         {
           "name": "Уха по-царски",
           "price": 1610,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Uha-po-tsarski-2-scaled.jpg"
         }
       ]
     },
@@ -859,51 +999,61 @@
         {
           "name": "Кутаб с зеленью/тыквой",
           "price": 410,
-          "weight": "80 г."
+          "weight": "80 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kutab-s-zelenyu-2-scaled.jpg"
         },
         {
           "name": "Кутаб с сыром",
           "price": 390,
-          "weight": "80 г."
+          "weight": "80 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kutab-s-syrom-2-scaled.jpg"
         },
         {
           "name": "Кутаб с мясом",
           "price": 420,
-          "weight": "70 г."
+          "weight": "70 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kutab-s-myasom-3-scaled.jpg"
         },
         {
           "name": "Кутаб по-деревенски Кята",
-          "price": 650
+          "price": 650,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kutab-kyata-2-scaled.jpg"
         },
         {
           "name": "Хинкали с бараниной (3шт)",
           "price": 600,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hinkali-s-govyadinoj-ili-baraninoj-1-scaled.jpg"
         },
         {
           "name": "Хинкали с говядиной (3шт)",
           "price": 650,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hinkali-s-govyadinoj-ili-baraninoj-1-scaled.jpg"
         },
         {
           "name": "Хинкали яйма",
           "price": 740,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/yajma-2-scaled.jpg"
         },
         {
           "name": "Хачапури по-аджарски",
           "price": 830,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hachapuri-po-adzharski-1-scaled.jpg"
         },
         {
           "name": "Хачапури по-мегрельски",
           "price": 930,
-          "weight": "500 г."
+          "weight": "500 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hachapuri-po-megrelski-3-scaled.jpg"
         },
         {
           "name": "Хачапури по-имеретински",
           "price": 850,
-          "weight": "450 г."
+          "weight": "450 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hachapuri-po-imeretinski-1-scaled.jpg"
         }
       ]
     },
@@ -913,17 +1063,20 @@
         {
           "name": "Паста с семгой",
           "price": 1560,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Pasta-s-semgoj-1-scaled.jpg"
         },
         {
           "name": "Паста с морепродуктами",
           "price": 1800,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Pasta-s-moreproduktami-1-scaled.jpg"
         },
         {
           "name": "Паста Карбонара",
           "price": 950,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Karbonara-1-scaled.jpg"
         }
       ]
     },
@@ -937,27 +1090,32 @@
         {
           "name": "Цыпленок по-азербайджански",
           "price": 1250,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/TSyplenok-po-azerbajdzhanski-szhatoe-foto-1-1.png"
         },
         {
           "name": "Чыхыртма из цыпленка",
           "price": 990,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/CHyhyrtma-scaled.jpg"
         },
         {
           "name": "Куриное филе с грибами в сливочном соусе",
           "price": 1250,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kurinoe-file-s-gribami-scaled.jpg"
         },
         {
           "name": "Котлеты куриные",
           "price": 750,
-          "weight": "230 г."
+          "weight": "230 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kotlety-kurinye-1-scaled.jpg"
         },
         {
           "name": "Цыпленок табака",
           "price": 1470,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/tsyplenok-tabaka-scaled.jpg"
         }
       ]
     },
@@ -967,82 +1125,98 @@
         {
           "name": "Плов Туршу-ковурма",
           "price": 1300,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Plov-turshu-kovurma-1-scaled.jpg"
         },
         {
           "name": "Сябзи-плов",
           "price": 1410,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Sabzi-plov-1-scaled.jpg"
         },
         {
           "name": "Жаркое из свинины",
           "price": 1150,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/ZHarkoe-2-1-scaled.jpg"
         },
         {
           "name": "Жаркое из баранины",
           "price": 1450,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/ZHarkoe-1-scaled.jpg"
         },
         {
           "name": "Жаркое из телятины",
           "price": 1750,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/ZHarkoe-2-scaled.jpg"
         },
         {
           "name": "Джыз-Быз",
           "price": 1190,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Dzhyz-byz-2-scaled.jpg"
         },
         {
           "name": "Оджахури (грузин. блюдо из баранины)",
           "price": 1450,
-          "weight": "250 г."
+          "weight": "250 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Odzhahuri-1-scaled.jpg"
         },
         {
           "name": "Нар-Ковурма из мякоти баранины",
           "price": 1650,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Nar-kovurma-4-scaled.jpg"
         },
         {
           "name": "Нар-Ковурма из телятины",
           "price": 2100,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Nar-kovurma-2-scaled.jpg"
         },
         {
           "name": "Котлеты из телятины",
           "price": 950,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Kotlety-iz-telyatiny-2-scaled.jpg"
         },
         {
           "name": "Бефстроганов",
           "price": 1650,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Befstroganov-1-scaled.jpg"
         },
         {
           "name": "Аджапсандал по-бакински",
           "price": 1650,
-          "weight": "330 г."
+          "weight": "330 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Adzhab-sandal-po-bakinski-1-scaled.jpg"
         },
         {
           "name": "Каре ягненка с овощами",
           "price": 1630,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kare-yagnenka-s-ovoshhami-szhatoe-foto-1-1.png"
         },
         {
           "name": "Медальон в слив.грибном соусе",
           "price": 2200,
-          "weight": "240 г."
+          "weight": "240 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/medalon-v-slivochno-gribnos-souse-6-scaled.jpg"
         },
         {
           "name": "Долма в виноградном листе",
           "price": 1200,
-          "weight": "280 г."
+          "weight": "280 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/dolma-4-scaled.jpg"
         },
         {
           "name": "Ландет из говяжьей вырезки",
           "price": 1410,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Landet-iz-govyazh.vyrezki-szhatoe-foto-1-scaled.jpg"
         }
       ]
     },
@@ -1052,22 +1226,26 @@
         {
           "name": "Запеченный дорадо с овощами",
           "price": 1650,
-          "weight": "4000 г."
+          "weight": "4000 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Zapechennyj-dorado-s-ovoshhami-szhatoe-foto-1-1.png"
         },
         {
           "name": "Филе дорадо с овощами гриль",
           "price": 1950,
-          "weight": "460 г."
+          "weight": "460 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/File-dorado-s-ovoshhami--scaled.jpg"
         },
         {
           "name": "Филе сибаса с овощами гриль",
           "price": 1950,
-          "weight": "360 г."
+          "weight": "360 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/File-sibasa-s-ovoshhami-scaled.jpg"
         },
         {
           "name": "Семга по-монастырски",
           "price": 2810,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Semga-po-monastyrski-scaled.jpg"
         }
       ]
     },
@@ -1077,32 +1255,38 @@
         {
           "name": "Стейк из куриного филе с булгуром",
           "price": 1450,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Stejk-iz-kurinogo-file-s-bulgurom-szhatoe-foto-1-1-scaled.jpg"
         },
         {
           "name": "Стейк из семги с молодым картофелем",
           "price": 2600,
-          "weight": "280 г."
+          "weight": "280 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Stejk-iz-semgi-s-molodym-kartofelem-szhatoe-foto-1-1.png"
         },
         {
           "name": "Стейк из тунца",
           "price": 2150,
-          "weight": "340 г."
+          "weight": "340 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Stejk-iz-tuntsa-scaled.jpg"
         },
         {
           "name": "Стейк из свинины (на гриле)",
           "price": 2350,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/stejk-iz-svininy-1-scaled.jpg"
         },
         {
           "name": "Стейк Нью-Йорк (на гриле)",
           "price": 4580,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Nyu-Jork-1-scaled.jpg"
         },
         {
           "name": "Стейк Рибай (на гриле)",
           "price": 5300,
-          "weight": "350 г."
+          "weight": "350 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Ribaj-1-scaled.jpg"
         }
       ]
     },
@@ -1116,27 +1300,32 @@
         {
           "name": "Люля-кебаб из курицы",
           "price": 910,
-          "weight": "310 г."
+          "weight": "310 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lyulya-kuritsa-4-scaled.jpg"
         },
         {
           "name": "Шашлык по-турецки куриный",
           "price": 890,
-          "weight": "270 г."
+          "weight": "270 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/po-turetski-1-scaled.jpg"
         },
         {
           "name": "Шашлык из курицы",
           "price": 720,
-          "weight": "310 г."
+          "weight": "310 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shashlyk-iz-kuritsy-2-scaled.jpg"
         },
         {
           "name": "Шашлык из курин. крылышек",
           "price": 740,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/krylyshki-2-scaled.jpg"
         },
         {
           "name": "Шашлык из цыпленка",
           "price": 1410,
-          "weight": "410 г."
+          "weight": "410 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shashlyk-iz-dom-tsyplenka-3-scaled.jpg"
         }
       ]
     },
@@ -1146,12 +1335,14 @@
         {
           "name": "Шашлык из свиной корейки",
           "price": 910,
-          "weight": "340 г."
+          "weight": "340 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shashlyk-iz-svinoj-korejki-3-scaled.jpg"
         },
         {
           "name": "Шашлык из свиной шейки",
           "price": 930,
-          "weight": "265 г."
+          "weight": "265 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shejka-scaled.jpg"
         }
       ]
     },
@@ -1161,17 +1352,20 @@
         {
           "name": "Люля кебаб из телятины",
           "price": 1050,
-          "weight": "310 г."
+          "weight": "310 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lyulya-iz-telyatiny-3.jpg"
         },
         {
           "name": "Телятина \"Бастурма\"",
           "price": 1400,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/telyachya-basturma-3-scaled.jpg"
         },
         {
           "name": "Шашлык из теляч. корейки",
           "price": 1910,
-          "weight": "360 г."
+          "weight": "360 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/telyachya-korejka-1-scaled.jpg"
         }
       ]
     },
@@ -1181,57 +1375,68 @@
         {
           "name": "Люля-кебаб из баранины",
           "price": 980,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lyulya-iz-baraniny-1-scaled.jpg"
         },
         {
           "name": "Хан-кебаб по-деревенски",
           "price": 930,
-          "weight": "310 г."
+          "weight": "310 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/han-kebab-po-der-1-scaled.jpg"
         },
         {
           "name": "Корейка из молод. ягненка",
           "price": 1260,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/korejka-iz-molodogo-yagnenka-1-scaled.jpg"
         },
         {
           "name": "Шашлык из баран. мякоти",
           "price": 1250,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/baranya-myakot-3-scaled.jpg"
         },
         {
           "name": "Шашлык из баранины (почечная часть)",
           "price": 1290,
-          "weight": "280 г."
+          "weight": "280 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/baranina-pochechnaya-chast-2-scaled.jpg"
         },
         {
           "name": "Шашлык из бар. почек",
           "price": 850,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shashlyk-iz-baranih-pochek-3-scaled.jpg"
         },
         {
           "name": "Шашлык из баран. сердца",
           "price": 860,
-          "weight": "270 г."
+          "weight": "270 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/barane-serdtse-6-scaled.jpg"
         },
         {
           "name": "Шашлык из бараньих ребрышек",
           "price": 970,
-          "weight": "270 г."
+          "weight": "270 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/semechki-scaled.jpg"
         },
         {
           "name": "Шашлык из бар. семенников",
           "price": 790,
-          "weight": "210 г."
+          "weight": "210 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shashlyk-iz-baranih-semennikov-1-scaled.jpg"
         },
         {
           "name": "Печень баранья с курдюком",
           "price": 850,
-          "weight": "310 г."
+          "weight": "310 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/pechen-baranya-s-kurdyukom-1-scaled.jpg"
         },
         {
           "name": "Дойма из баранины, рубленная вручную",
           "price": 1150,
-          "weight": "310 г."
+          "weight": "310 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/dojma-rublennaya-vruchnuyu-3-scaled.jpg"
         }
       ]
     },
@@ -1241,27 +1446,32 @@
         {
           "name": "Шашлык из сибаса",
           "price": 1750,
-          "weight": "325 г."
+          "weight": "325 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/sibas-1-scaled.jpg"
         },
         {
           "name": "Шашлык из дорадо",
           "price": 1750,
-          "weight": "305 г."
+          "weight": "305 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/dorado-3-scaled.jpg"
         },
         {
           "name": "Шашлык из форели",
           "price": 1650,
-          "weight": "315 г."
+          "weight": "315 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/forel-2-scaled.jpg"
         },
         {
           "name": "Шашлык из семги",
           "price": 2450,
-          "weight": "220 г."
+          "weight": "220 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/semga-2-scaled.jpg"
         },
         {
           "name": "Шашлык из осетрины",
           "price": 2950,
-          "weight": "215 г."
+          "weight": "215 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/osetrina-3-scaled.jpg"
         }
       ]
     },
@@ -1271,33 +1481,40 @@
         {
           "name": "Шампиньоны на мангале",
           "price": 460,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shampinony-2-scaled.jpg"
         },
         {
           "name": "Шашлык Помидоры Баку",
-          "price": 390
+          "price": 390,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/pomidor-2-scaled.jpg"
         },
         {
           "name": "Шашлык из острого перца",
-          "price": 390
+          "price": 390,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/perets-ostryj-1-scaled.jpg"
         },
         {
           "name": "Шашлык из сладкого перца",
-          "price": 310
+          "price": 310,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/bol-perets-2-scaled.jpg"
         },
         {
           "name": "Баклажан Баку на мангале",
-          "price": 390
+          "price": 390,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/baklazhan-1-scaled.jpg"
         },
         {
           "name": "Молодой картофель на углях",
           "price": 410,
-          "weight": "175 г."
+          "weight": "175 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/molodoj-kartofel-3-scaled.jpg"
         },
         {
           "name": "Люля-кебаб из картофеля",
           "price": 550,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lyulya-iz-kartofelya-2-scaled.jpg"
         }
       ]
     },
@@ -1307,27 +1524,32 @@
         {
           "name": "Садж кебаб из цыпленка",
           "price": 3420,
-          "weight": "1000 г."
+          "weight": "1000 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/sadzh-iz-tsyplenka-3-scaled.jpg"
         },
         {
           "name": "Садж кебаб из баранины",
           "price": 3950,
-          "weight": "1000 г."
+          "weight": "1000 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/sadzh-s-baraninoj-2-scaled.jpg"
         },
         {
           "name": "Садж кебаб из телятины",
           "price": 4200,
-          "weight": "1000 г."
+          "weight": "1000 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/sadzh-iz-telyatiny-5-scaled.jpg"
         },
         {
           "name": "Садж кебаб от шеф-повара",
           "price": 5100,
-          "weight": "950 г."
+          "weight": "950 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/sadzh-ot-shefa-scaled.jpg"
         },
         {
           "name": "Садж кебаб Гранат Блек",
           "price": 4650,
-          "weight": "1000 г."
+          "weight": "1000 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Sadzh-blek-scaled.jpg"
         }
       ]
     },
@@ -1337,47 +1559,56 @@
         {
           "name": "Рис отварной",
           "price": 310,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Ris-otvarnoj-szhatoe-foto-1.png"
         },
         {
           "name": "Картофель фри",
           "price": 390,
-          "weight": "100 г."
+          "weight": "100 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kartofel-fri-szhatoe-foto-1.png"
         },
         {
           "name": "Картофель отварной",
           "price": 290,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kartofel-otvarnoj-szhatoe-foto-1.png"
         },
         {
           "name": "Картофельное пюре",
           "price": 380,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kartofelnoe-pyure-szhatoe-foto-1.png"
         },
         {
           "name": "Картофель жареный",
           "price": 450,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kartofel-zharenyj-szhatoe-foto-1.png"
         },
         {
           "name": "Картофель жареный с грибами и луком",
           "price": 590,
-          "weight": "170 г."
+          "weight": "170 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Kartofel-zharenyj-s-gribami-szhatoe-foto-1.png"
         },
         {
           "name": "Гречка отварная",
           "price": 310,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Grechka-otvarnaya-szhatoe-foto-1.png"
         },
         {
           "name": "Овощи на гриле",
           "price": 790,
-          "weight": "190 г."
+          "weight": "190 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Ovoshhi-na-grile-szhatoe-foto-1.png"
         },
         {
           "name": "Булгур турецкий",
           "price": 270,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Bulgur-turetskij.jpg"
         }
       ]
     },
@@ -1386,31 +1617,38 @@
       "items": [
         {
           "name": "Соус Наршараб домашний 50 гр",
-          "price": 340
+          "price": 340,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Narsharab-scaled.jpg"
         },
         {
           "name": "Соус Хрен 50 мл",
-          "price": 210
+          "price": 210,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hren-scaled.jpg"
         },
         {
           "name": "Кетчуп 50 мл",
-          "price": 170
+          "price": 170,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Ketchup-scaled.jpg"
         },
         {
           "name": "Соус Ткемали 50 мл",
-          "price": 210
+          "price": 210,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Tkemali-scaled.jpg"
         },
         {
           "name": "Сметана 50 мл",
-          "price": 210
+          "price": 210,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Smetana-scaled.jpg"
         },
         {
           "name": "Аджика 50 мл",
-          "price": 210
+          "price": 210,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Adzhika-scaled.jpg"
         },
         {
           "name": "Мацони с чесноком 50 мл",
-          "price": 210
+          "price": 210,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Matsoni-s-chesnokom-scaled.jpg"
         }
       ]
     },
@@ -1420,22 +1658,26 @@
         {
           "name": "Хлеб ржаной",
           "price": 40,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/hleb-rzhanoj-1-scaled.jpg"
         },
         {
           "name": "Лаваш тонкий",
           "price": 110,
-          "weight": "50 г."
+          "weight": "50 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lavash-scaled.jpg"
         },
         {
           "name": "Лепешка из тандыра с кунжутом",
           "price": 130,
-          "weight": "120 г."
+          "weight": "120 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/lepeshka-s-kunzhutom-2-scaled.jpg"
         },
         {
           "name": "Лепешка Шоти",
           "price": 130,
-          "weight": "120 г."
+          "weight": "120 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shoti-2-scaled.jpg"
         }
       ]
     },
@@ -1445,57 +1687,68 @@
         {
           "name": "Мороженое с фруктами и ягодами",
           "price": 320,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/morozhenoe-s-fruktami-i-yagodami-2-scaled.jpg"
         },
         {
           "name": "Макароны бантики",
           "price": 150,
-          "weight": "120 г."
+          "weight": "120 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/makarony-bantiki-1-scaled.jpg"
         },
         {
           "name": "Картофельные шарики",
           "price": 350,
-          "weight": "120 г."
+          "weight": "120 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Kartofelnye-shariki-scaled.jpg"
         },
         {
           "name": "Хачапури мини",
           "price": 420,
-          "weight": "250 г."
+          "weight": "250 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Hachapuri-mini-2-scaled.jpg"
         },
         {
           "name": "Нагетсы куриные с кетчупом",
           "price": 360,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Naggetsy-scaled.jpg"
         },
         {
           "name": "Котлетки из телятины (Детские)",
           "price": 610,
-          "weight": "245 г."
+          "weight": "245 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kotletki-iz-telyatiny-2-scaled.jpg"
         },
         {
           "name": "Суп Алфавит",
           "price": 210,
-          "weight": "250 г."
+          "weight": "250 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Alfavit-scaled.jpg"
         },
         {
           "name": "Суп овощной",
           "price": 210,
-          "weight": "300 г."
+          "weight": "300 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Ovoshhnoj-scaled.jpg"
         },
         {
           "name": "Салат Зайчик",
           "price": 350,
-          "weight": "145 г."
+          "weight": "145 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/salat-zajchik-2-scaled.jpg"
         },
         {
           "name": "Салат Овощные палочки",
           "price": 240,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/salat-ovoshhnye-palochki-2-scaled.jpg"
         },
         {
           "name": "Салат Овощные ломтики",
           "price": 280,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/salat-ovoshhnye-lomtiki-1--scaled.jpg"
         }
       ]
     },
@@ -1505,76 +1758,91 @@
         {
           "name": "Кята",
           "price": 450,
-          "weight": "90 г."
+          "weight": "90 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/kyata-1-scaled.jpg"
         },
         {
           "name": "Мутаки",
           "price": 420,
-          "weight": "60 г."
+          "weight": "60 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/mutaki-3-scaled.jpg"
         },
         {
           "name": "Пахлава",
           "price": 590,
-          "weight": "135 г."
+          "weight": "135 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/pahlava-2-scaled.jpg"
         },
         {
           "name": "Пирожное «Крем-брюле»",
           "price": 550,
-          "weight": "160 г."
+          "weight": "160 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Krem-bryule-szhatoe-foto-1.png"
         },
         {
           "name": "Чизкейк классический",
           "price": 710,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/chizkejk-2-scaled.jpg"
         },
         {
           "name": "Медовик",
           "price": 690,
-          "weight": "160 г."
+          "weight": "160 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/medovik-2-scaled.jpg"
         },
         {
           "name": "Наполеон",
           "price": 750,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/napoleon-1-scaled.jpg"
         },
         {
           "name": "Тирамису",
           "price": 710,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/tiramisu-1-scaled.jpg"
         },
         {
           "name": "Шоколадный фондан",
           "price": 720,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shokoladnyj-fondan-1-scaled.jpg"
         },
         {
           "name": "Штрудель яблочный",
           "price": 740,
-          "weight": "290 г."
+          "weight": "290 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/shtrudel-2-scaled.jpg"
         },
         {
           "name": "Турецкая пахлава с мороженым",
           "price": 850,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Turetskaya-pahlava-szhatoe-foto-1.png"
         },
         {
           "name": "Варенье домашнее",
           "price": 750,
-          "weight": "200 г."
+          "weight": "200 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/varene-2-scaled.jpg"
         },
         {
           "name": "Ассорти из орехов Ляб-ляби",
           "price": 1200,
-          "weight": "150 г."
+          "weight": "150 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Assorti-orehov-lyab-lyabi-2-1.png"
         },
         {
           "name": "Ананас Голд",
           "price": 1700,
-          "weight": "400 г."
+          "weight": "400 г.",
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/ananas-gold-1-scaled.jpg"
         },
         {
           "name": "Фруктовая нарезка с ананасом 2 кг",
-          "price": 2650
+          "price": 2650,
+          "image": "https://granatblack.ru/wp-content/uploads/2023/12/Fruktovaya-narezka-szhatoe-foto-1-1.png"
         }
       ]
     },
@@ -1635,31 +1903,38 @@
         },
         {
           "name": "Фреш Ананас",
-          "price": 810
+          "price": 810,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Ananasovyj-fresh-scaled.jpg"
         },
         {
           "name": "Фреш Апельсин",
-          "price": 690
+          "price": 690,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Apelsinovyj-fresh-scaled.jpg"
         },
         {
           "name": "Фреш Гранат",
-          "price": 930
+          "price": 930,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Granatovyj-fresh-scaled.jpg"
         },
         {
           "name": "Фреш Грейпфрут",
-          "price": 690
+          "price": 690,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Grejpfrutovyj-fresh-scaled.jpg"
         },
         {
           "name": "Фреш Лимон 100 мл.",
-          "price": 450
+          "price": 450,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Limonnyj-fresh-scaled.jpg"
         },
         {
           "name": "Фреш Морковь со сливками",
-          "price": 620
+          "price": 620,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/Morkovnyj-fresh-scaled.jpg"
         },
         {
           "name": "Фреш Яблоко",
-          "price": 650
+          "price": 650,
+          "image": "https://granatblack.ru/wp-content/uploads/2022/01/yablochnyj-fresh-2-scaled.jpg"
         }
       ]
     }

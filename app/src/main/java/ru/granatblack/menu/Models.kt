@@ -14,7 +14,8 @@ data class MenuCategory(
 data class MenuItem(
     val name: String,
     val price: Int,
-    val weight: String? = null
+    val weight: String? = null,
+    val image: String? = null
 )
 
 data class CartEntry(
